@@ -25,7 +25,7 @@ Users should be able to see:
 
 ### Links
 
-- Live Site URL: [GitHub Pages](https://frontendparham.github.io/Arka/)
+- Live Site URL: [GitHub Pages](https://frontendparham.github.io/Arka-Web-Application/)
 - Live Site URL: [Netlify](https://arka.netlify.app/)
 
 ## My process
